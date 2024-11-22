@@ -170,10 +170,6 @@ main{
     flex-direction:column ;
     margin-top: 24px;
  }
- .search-container{
-    padding-left: 0px;
-    padding: 0px; 
-}
  .filter-by-region{
     margin-top: 32px;
  }
