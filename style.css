@@ -160,6 +160,9 @@ main{
     .countries-container {
         justify-content: center;
     }
+    .search-container{
+        margin-inline: 0px;
+    }
     .title {
         font-size:  16px;
  }
